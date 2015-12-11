@@ -1,0 +1,94 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dC:/Users/eperez/Desktop/ECE 287 Quaterus Files/FinalProject/simulation/qsim
+vfinalProject
+!s110 1448754506
+!i10b 1
+!s100 o1S^S8bUH:@M2nWR<Lb<`2
+ICKAE`71zE^Z5]Va^WiNI?3
+Z1 V`JN@9S9cnhjKRR_L]QIcM3
+R0
+w1448754501
+8finalProject.vo
+FfinalProject.vo
+L0 32
+Z2 OV;L;10.3d;59
+r1
+!s85 0
+31
+!s108 1448754506.603000
+!s107 finalProject.vo|
+!s90 -work|work|finalProject.vo|
+!i113 1
+Z3 o-work work
+nfinal@project
+vfinalProject_vlg_check_tst
+Z4 !s110 1448754507
+!i10b 1
+!s100 hWWQ17UV39l?Q:iLhJTiV0
+I;>9a;YScmPaJgh[cNQU_l2
+R1
+R0
+Z5 w1448754489
+Z6 8Waveform1.vwf.vt
+Z7 FWaveform1.vwf.vt
+L0 62
+R2
+r1
+!s85 0
+31
+Z8 !s108 1448754507.033000
+Z9 !s107 Waveform1.vwf.vt|
+Z10 !s90 -work|work|Waveform1.vwf.vt|
+!i113 1
+R3
+nfinal@project_vlg_check_tst
+vfinalProject_vlg_sample_tst
+R4
+!i10b 1
+!s100 HzIlIalUk9[m^LmAXQi=;1
+I?EeafOiGK64<]YgjV2o<43
+R1
+R0
+R5
+R6
+R7
+L0 30
+R2
+r1
+!s85 0
+31
+R8
+R9
+R10
+!i113 1
+R3
+nfinal@project_vlg_sample_tst
+vfinalProject_vlg_vec_tst
+R4
+!i10b 1
+!s100 FkBN_B3DDAZckC;9XSIAe3
+I[VFe0XGDPRCVh3inYNLL01
+R1
+R0
+R5
+R6
+R7
+L0 225
+R2
+r1
+!s85 0
+31
+R8
+R9
+R10
+!i113 1
+R3
+nfinal@project_vlg_vec_tst
