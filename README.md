@@ -1,4 +1,8 @@
 # ECE-287-Final-Project
+
+http://morse-code-learning-device.wikispaces.com/ //Link to the report
+
+
 The DE2-115 FPGA board is being used as a hands-on educational tool, to allow the user to learn Morse Code
 
 The challenge is to not only demonstrate the Morse Code sequence for a given character in a static manner, but to also output the relative signal duration,
